@@ -21,3 +21,7 @@ A. Jupiter.
 Q1. What is the largest ocean on the Earth?
 A1. 
 ```
+```
+Q2. What is the Capital of Canada?
+A2. 
+```

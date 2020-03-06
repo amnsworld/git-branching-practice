@@ -23,5 +23,5 @@ A1.
 ```
 ```
 Q2. What is the Capital of Canada?
-A2. 
+A2. Ottawa
 ```

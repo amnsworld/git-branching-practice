@@ -25,3 +25,7 @@ A1.
 Q2. What is the Capital of Canada?
 A2. 
 ```
+```
+Q3. What is the fullform of POTUS?
+A3. 
+```

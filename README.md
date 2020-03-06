@@ -27,5 +27,5 @@ A2.
 ```
 ```
 Q3. What is the fullform of POTUS?
-A3. 
+A3. President Of The United States
 ```
